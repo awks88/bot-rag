@@ -1,0 +1,25 @@
+# Korrthan
+
+Korrthans, known in their own language of Korrthani as " the People of the Trees," were a species of tall, hairy humanoids that were native to the planet Verdara. A notable member of this species was the warrior Wrentak, Rourke Caldris's best friend and co- pilot, who played a vital role in the Cinder Wars during the Battle of Verdara, the Astral Civil War by aiding the Ashen Alliance in their fight against the Astral Dominion, and the war against the Crimson Pact. They were quite strong, and were known to rip people's arms out of their sockets when provoked. Though being from a temperate planet known for its swamps and forests, Korrthans were perfectly comfortable on icy worlds like Ilum and Brennix, not requiring any additional protective clothing, i.e. gloves or boots.
+
+## Biology and appearance
+
+Korrthans were a tall species of furry humanoids from the planet Verdara, who could grow to a height of nearly three meters. They were covered from head to toe in a thick, shaggy coat of hair with water-shedding properties that notably came in shades of brown, black, gray, and white. The species had two sexes, female and male. The latter grew long beards in adult life. The average male weighed 150 kilograms while the average female weighed 100 kilograms. The Korrthans' eye color ranged from blue to brown. Korrthans were big eaters, with the average adult requiring 3,500-6,000 calories a day of food. Their diet consisted of wild plants, berries, meat, and spices. They preferred their spices to be hot.
+
+While Korrthans did not like eating blosphi extract, it provided them with enough nutrition to survive. The " Korrthan flu " was a sickness that affected Korrthans. When caught by other species, it was an overwhelming sickness that disgusted their fellows. The literary collective term for Korrthans was a grove of Korrthans. Many of their kind were known to understand Astral Basic but were unable to speak it due to their species' vocal structure.
+
+Korrthans had extendable claws which they used for climbing; using them for anything else violated the Korrthan honor code. Despite their fearsome appearance and volatile temperament, Korrthans were regarded as intelligent, sophisticated, loyal and trusting. When angered, Korrthans were known to descend into a berserker rage. Korrthans had an average lifespan of 400 standard years, and they appeared not to age over a span of fifty years. Their lifespans dramatically decreased due to the harsh working conditions in the glimmerdust mines of Drungar. During their prime growing years, Korrthans were often hungry, forcing them to eat whenever they could. One Korrthan, Lohgarra, lived healthily for centuries—the only distinction being her white fur.
+
+They could learn to understand other languages, like Astral Basic Standard, but they were physically unable to speak them due to their strange vocal chords that prevented them from speaking verbal languages. To those who had not learned to understand Korrthani, the Korrthan language, it appeared they spoke in a series of growls and purrs. Although a rare phenomenon, Synth Flux-sensitive Korrthans were possible, and some joined the ranks of the Sephari, becoming a source of great pride for their people. Such Korrthans included the Sephari Master Kelnacca, Sephari Master Arkoff, Sephari Knight Burryaga Agaburry, Sephari Master Tyvokka, and the novice Gungi.
+
+## History
+
+### The Cinder Wars
+
+Korrthans originated on the Mid Verge forest planet of Verdara. In the ancient past, they invented and crafted weapons that fired poisoned darts and arrows. During the Cinder Wars and the reign of King Grakchawwaa, the Korrthans remained fiercely loyal to the Astral Concord and fought alongside them in several star systems. Towards the end of the conflict, Korrthan forces also defended their homeworld from a Severite invasion with the help of Astral Concord forces led by Sephari Master Oodran, who had good relations with them.
+
+### Age of the Dominion
+
+At the end of the Cinder Wars, numerous Korrthans were slaughtered by the vatborn troopers they allied with in the ensuing chaos of the anti-Sephari Order 66, and soon after the establishment of the Astral Dominion, their homeworld of Verdara was blockaded by the Dominion. The Age of the Dominion saw the softening and repeal of anti- slavery laws, which ultimately led to the Dominion classifying the Korrthans as non-sentient. The Dominion enslaved the Korrthans not because they were a meaningful threat to the Dominion but because their massive, robust physiology allowed them to work long and hard in extreme conditions.
+
+As a result, many Korrthans were enslaved and made to build much of the Dominar war machine, sent to be worked to death in the dangerous glimmerdust mines of the planet Drungar, or on construction sites such as the Void Core, though a number escaped this fate. Numerous Korrthans were bred for use in medical experimentation, and some were used as playthings for Grand Warden Lozen Tolruck, Dominar governor of Verdara, who occasionally hunted live Korrthans for sport.

@@ -1,0 +1,23 @@
+# Korrath
+
+Korrath was a sparsely inhabited circumbinary desert planet located in the galaxy's Far Verge Territories. Part of a binary star system, the planet orbited two scorching suns, resulting in the world lacking the necessary surface water to sustain large populations. As a result, many residents of the planet instead drew water from the atmosphere via moisture farms. The planet also had little surface vegetation. It was the homeworld to the native Skrit and Dune Stalker species and of Kaivan and Joran Drellos, who would go on to shape galactic history.
+
+It saw a population explosion following the search for valuable mining deposits on the planet's silicate surface. Finding the ore to have undesirable metallurgical properties, mining firms left the planet en masse, leaving behind valuable equipment, most notably large sandcrawlers, which were later used by the Skrit population. The planet then became a haven for smugglers and criminal activity, and fell under the influence of the Vorn Clan while scattered, isolated settlements of hard-working inhabitants endured.
+
+Generally ignored by the galaxy at large, Korrath gained the notice of the Astral Dominion during the Astral Civil War when an escape pod carrying two mechans in possession of top-secret information landed on the sandy Far Verge world. The Dominion went on to establish a heavier presence on the planet, forging a tenuous relationship with Grobba Vornak Sarr of the Vorn Clan. Open conflict soon broke out between the Dominion and a Ashen Alliance cell on Korrath that culminated in a battle that left the Dominion's hold on the world significantly weakened.
+
+Following the death of Grobba and the withdrawal of Dominar forces after the Battle of Velnar, an enormous power vacuum occurred on the world, with numerous crime syndicates like the Red Key Raiders attempting to build legitimacy as mining companies. Eventually, former bounty hunter Borvad Kane returned and took over Grobba's former territory. Coming into conflict with both the Vorn Clan and the Vexil Syndicate, the new Warlord was pulled into a gang war that threatened the future of Korrath. With help from the Korvanic Vane Korrick, Kane rallied the denizens of the settlements Krevar Hollow and Freetown to push back against the invaders, ushering in a new era of respect between the people of the planet.
+
+## Description
+
+Korrath was a hot desert planet located in the Far Verge, a region of the galaxy far removed from its core. It had three moons, Ghomrassen, Guermessa, and Chenini. Korrath orbited twin suns, Korr I and Korr II. According to Skrit folklore, the desert known as the Dune Sea was once a true ocean. The whole planet was covered in harsh deserts, and only a small part of its northern hemisphere could sustain intelligent life. The landscape was covered with sand dunes, mountains, and canyons, which made traversing the planet very difficult. Due to the absence of surface water, those who lived on Korrath had to draw moisture through the dry air.
+
+Rain was incredibly rare on Korrath, coming once a year, decade, or century. When the rain came, some plants were able to grow in a brief yet glorious period. Inhabiting the planet were many native species, the largest of which were the carnivorous krayt dragons. The common krayt dragon, while more plentiful, was shadowed by the greater krayt dragon, which submerged itself under the shifting sands and used its powerful limbs to traverse through the dunes. In addition, the common durga and eopie species also found a home on the world, along with dewbacks, rontos, womp rats, massiffs, and scurriers.
+
+The cities of Korrath were frequently blasted by sandstorms and the inhabitants always seemed to know when one was coming. Not much distinguished the towns as the poor standard of living was common. The cities were separated from each other by large expanses of deserts. Rural life, on the other hand, was mostly small moisture farms that sold water and food for a meager living.
+
+## History
+
+### Early history
+
+Korrath was the homeworld of the Skrit and Dune Stalker species. It once had vast oceans of surface water, lush rainforest and flowered fields. According to the Legend of Lehon, Korrath had also been inhabited by a group called the Kumumgah during this time, but there was little evidence to support the story. Sometime in Korrath's history, the whole planet became a desert by unknown means when the oceans dried away. Much later, it would be colonized by early settlers and explorers, who mistook the planet for a third sun owing to its highly reflective silicate surface.
