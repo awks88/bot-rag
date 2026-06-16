@@ -8,3 +8,6 @@
 [2026-06-16 02:53:26] === запуск обновления ===
 [2026-06-16 02:53:26] изменены: —, удалены: ['zarruk-veil.md'] -> полная пересборка
 [2026-06-16 02:53:31] index updated (rebuild): 0 added, 0 changed, 1 removed, +0 chunks, total chunks=321, 4.8s, 0 errors
+[2026-06-16 03:08:34] === запуск обновления ===
+[2026-06-16 03:08:34] изменены: —, удалены: ['oodran.md', 'the-synth-flux.md', 'void-core.md'] -> полная пересборка
+[2026-06-16 03:08:39] index updated (rebuild): 0 added, 0 changed, 3 removed, +0 chunks, total chunks=302, 5.5s, 0 errors

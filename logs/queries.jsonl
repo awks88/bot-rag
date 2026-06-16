@@ -1,0 +1,13 @@
+{"timestamp": "2026-06-16T03:16:56", "query": "Who piloted the Stormhawk?", "found_chunks": true, "sources": ["stormhawk.md", "wrentak.md"], "answer_length": 663, "success": true}
+{"timestamp": "2026-06-16T03:17:20", "query": "Who is Joran Drellos?", "found_chunks": true, "sources": ["joran-drellos.md"], "answer_length": 666, "success": true}
+{"timestamp": "2026-06-16T03:17:42", "query": "What is the Astral Dominion?", "found_chunks": true, "sources": ["astral-concord.md", "astral-dominion.md", "korrath.md"], "answer_length": 746, "success": true}
+{"timestamp": "2026-06-16T03:18:09", "query": "Who is Rourke Caldris?", "found_chunks": true, "sources": ["borvad-kane.md", "rourke-caldris.md"], "answer_length": 619, "success": true}
+{"timestamp": "2026-06-16T03:18:24", "query": "What is a plasma-brand?", "found_chunks": true, "sources": ["plasma-brand.md"], "answer_length": 579, "success": true}
+{"timestamp": "2026-06-16T03:18:52", "query": "Who are the Sephari?", "found_chunks": true, "sources": ["maren.md", "sephari.md"], "answer_length": 558, "success": true}
+{"timestamp": "2026-06-16T03:20:16", "query": "Who is Wrentak?", "found_chunks": true, "sources": ["wrentak.md"], "answer_length": 706, "success": true}
+{"timestamp": "2026-06-16T03:20:45", "query": "What is the Astral Concord?", "found_chunks": true, "sources": ["astral-concord.md"], "answer_length": 505, "success": true}
+{"timestamp": "2026-06-16T03:21:36", "query": "What is the Void Core?", "found_chunks": true, "sources": ["karnak.md", "rourke-caldris.md"], "answer_length": 434, "success": true}
+{"timestamp": "2026-06-16T03:22:27", "query": "What is the Synth Flux?", "found_chunks": true, "sources": ["kaivan-drellos.md", "mourndahl.md", "sephari.md"], "answer_length": 595, "success": true}
+{"timestamp": "2026-06-16T03:22:55", "query": "Who is Oodran?", "found_chunks": true, "sources": ["mira-drellos-vantar-caldris.md", "mourndahl.md"], "answer_length": 745, "success": true}
+{"timestamp": "2026-06-16T03:23:04", "query": "Who is Darth Vader?", "found_chunks": true, "sources": ["tholos.md", "threnn.md"], "answer_length": 437, "success": true}
+{"timestamp": "2026-06-16T03:23:04", "query": "What is the capital of France?", "found_chunks": false, "sources": [], "answer_length": 58, "success": false}

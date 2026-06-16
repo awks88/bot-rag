@@ -167,3 +167,21 @@ python scripts/update_index.py
 ### Архитектура
 
 ![Архитектура планировщика](./images/arch.png)
+
+## Аналитика покрытия и качества базы знаний
+
+Из базы удалены 3 сущности (с резервом в `removed_entities/`): `void-core.md`,
+`the-synth-flux.md`, `oodran.md`. База: 43 файла, 302 чанка.
+
+### Логирование запросов
+
+Каждый вызов `rag_bot.answer()` пишет строку в `logs/queries.jsonl` (формат JSONL):
+`timestamp`, `query`, `found_chunks`, `sources`, `answer_length`, `success`.
+
+### Golden set и автотест (`scripts/evaluate.py`)
+
+13 вопросов: 8 на известные темы + 5 на удалённые/отсутствующие. Скрипт прогоняет их, логирует и считает точность.
+
+Запуск: `python scripts/evaluate.py`
+
+![Диаграмма обработки запросов](./images/requests.png)

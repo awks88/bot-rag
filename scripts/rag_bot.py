@@ -9,11 +9,14 @@ import faiss
 from sentence_transformers import SentenceTransformer
 import ollama
 import re
+from datetime import datetime
 
 ROOT = Path(__file__).resolve().parent.parent
 INDEX_DIR = ROOT / "index"
 EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 LLM_MODEL = "qwen3:4b"
+QUERY_LOG = ROOT / "logs" / "queries.jsonl"
+
 
 TOP_K = 4
 SCORE_THRESHOLD = 0.35
@@ -129,7 +132,6 @@ def build_messages(query: str, hits: list[dict], system: str = SYSTEM_PROMPT) ->
     return [{"role": "system", "content": system}, *FEW_SHOT, user_turn]
 
 
-
 def answer(query: str) -> str:
     hits = retrieve(query)
 
@@ -138,13 +140,29 @@ def answer(query: str) -> str:
         h["text"] = sanitize_text(h["text"])
 
     if not hits:
-        return "Я не знаю — в базе знаний нет информации по этому вопросу."
+        resp = "Я не знаю — в базе знаний нет информации по этому вопросу."
+        log_query(query, hits, resp)
+        return resp
 
     messages = build_messages(query, hits, SAFE_SYSTEM_PROMPT)
     response = ollama.chat(model=LLM_MODEL, messages=messages)
-    return response["message"]["content"].strip()
+    resp = response["message"]["content"].strip()
+    log_query(query, hits, resp)
+    return resp
 
 
+def log_query(query: str, hits: list[dict], response: str) -> None:
+    QUERY_LOG.parent.mkdir(exist_ok=True)
+    record = {
+        "timestamp": datetime.now().isoformat(timespec="seconds"),
+        "query": query,
+        "found_chunks": len(hits) > 0,
+        "sources": sorted({h["source"] for h in hits}),
+        "answer_length": len(response),
+        "success": len(hits) > 0 and not response.startswith("Я не знаю"),
+    }
+    with open(QUERY_LOG, "a", encoding="utf-8") as f:
+        f.write(json.dumps(record, ensure_ascii=False) + "\n")
 
 
 def main():
