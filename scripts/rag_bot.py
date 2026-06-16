@@ -156,6 +156,7 @@ def log_query(query: str, hits: list[dict], response: str) -> None:
     record = {
         "timestamp": datetime.now().isoformat(timespec="seconds"),
         "query": query,
+        "result": response,
         "found_chunks": len(hits) > 0,
         "sources": sorted({h["source"] for h in hits}),
         "answer_length": len(response),
