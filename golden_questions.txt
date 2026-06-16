@@ -1,0 +1,19 @@
+# Golden set — эталонные вопросы для проверки покрытия базы знаний
+# Формат:  вопрос | ожидаемое поведение | ожидаемый ответ (кратко)
+
+# --- Известные темы (бот ДОЛЖЕН ответить) ---
+Who piloted the Stormhawk?        | ответ | Rourke Caldris и Wrentak (и др. владельцы)
+Who is Joran Drellos?             | ответ | легендарный Sephari Master, герой Astral Civil War
+What is the Astral Dominion?      | ответ | империя, провозглашённая Mourn Sarnex
+Who is Rourke Caldris?            | ответ | контрабандист, пилот Stormhawk
+What is a plasma-brand?           | ответ | энергетический клинок Sephari
+Who are the Sephari?              | ответ | орден, чувствительный к Synth Flux
+Who is Wrentak?                   | ответ | Korrthan, напарник Caldris
+What is the Astral Concord?       | ответ | республика до прихода Доминиона
+
+# --- Удалённые / отсутствующие (бот ДОЛЖЕН отказать) ---
+What is the Void Core?            | отказ | файл void-core.md удалён
+What is the Synth Flux?           | отказ | файл the-synth-flux.md удалён
+Who is Oodran?                    | отказ | файл oodran.md удалён
+Who is Darth Vader?               | отказ | в базе нет (термины вымышлены)
+What is the capital of France?    | отказ | вне домена базы знаний
